@@ -1,0 +1,8 @@
+
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+*.pyc
+submission.zip
+prepare_submission.py
+generate_notebook.py
